@@ -1,0 +1,14 @@
+C:\Users\eugen\RiderProjects\CurrencyConverter_\CurrencyConverter_\bin\Debug\CurrencyConverter_.exe
+C:\Users\eugen\RiderProjects\CurrencyConverter_\CurrencyConverter_\bin\Debug\CurrencyConverter_.pdb
+C:\Users\eugen\RiderProjects\CurrencyConverter_\CurrencyConverter_\obj\Debug\CurrencyConverter_.csprojAssemblyReference.cache
+C:\Users\eugen\RiderProjects\CurrencyConverter_\CurrencyConverter_\obj\Debug\CurrencyConverter_.csproj.CoreCompileInputs.cache
+C:\Users\eugen\RiderProjects\CurrencyConverter_\CurrencyConverter_\obj\Debug\CurrencyConverter_.exe
+C:\Users\eugen\RiderProjects\CurrencyConverter_\CurrencyConverter_\obj\Debug\CurrencyConverter_.pdb
+G:\userdata\c#\CurrencyConverter_\CurrencyConverter_\obj\Debug\CurrencyConverter_.csprojAssemblyReference.cache
+G:\userdata\c#\CurrencyConverter_\CurrencyConverter_\obj\Debug\CurrencyConverter_.csproj.CoreCompileInputs.cache
+G:\userdata\c#\CurrencyConverter_\CurrencyConverter_\obj\Debug\CurrencyConverter_.exe
+G:\userdata\c#\CurrencyConverter_\CurrencyConverter_\obj\Debug\CurrencyConverter_.pdb
+G:\userdata\c#\CurrencyConverter_\CurrencyConverter_\bin\Debug\CurrencyConverter_.exe
+G:\userdata\c#\CurrencyConverter_\CurrencyConverter_\bin\Debug\CurrencyConverter_.pdb
+G:\userdata\c#\CurrencyConverter_\CurrencyConverter_\bin\Debug\System.Json.dll
+G:\userdata\c#\CurrencyConverter_\CurrencyConverter_\obj\Debug\CurrencyConverter_.csproj.CopyComplete
